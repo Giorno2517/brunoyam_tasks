@@ -1,0 +1,5 @@
+s = int(input())
+v = int(input())
+t = int(input())
+s1 = ((v * t) % s)
+print(s1)
